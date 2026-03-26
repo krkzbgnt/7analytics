@@ -18,7 +18,7 @@ https://templatemo.com/tm-600-prism-flux
                 description: 'Data Cleaning and Modeling',
                 image: 'images/imgMterm1.png',
                 tech: ['Bicycle Sales'],
-                pdf: 'link/mterm1.pdf'
+                pdf: 'https://docs.google.com/spreadsheets/d/13rzHBcbARi4_dlxxrZ7yjkHhg3ytUOwH/edit?usp=sharing&ouid=109911988652411399439&rtpof=true&sd=true'
             },
             {
                 id: 2,
@@ -26,7 +26,7 @@ https://templatemo.com/tm-600-prism-flux
                 description: 'Data Cleaning and Preparation',
                 image: 'images/imgPract1.png',
                 tech: ['Revenue'],
-                pdf: 'link/practTask1.pdf'
+                pdf: 'https://docs.google.com/spreadsheets/d/1qEwKGwZOoHGGjKZ53P5fa6spOSm8Ma-H/edit?usp=sharing&ouid=109911988652411399439&rtpof=true&sd=true'
             },
             {
                 id: 3,
@@ -34,7 +34,7 @@ https://templatemo.com/tm-600-prism-flux
                 description: ' Demo Data Analysis',
                 image: 'images/imgPract2.png',
                 tech: ['Dashboard'],
-                pdf: 'link/practTask2.pdf'
+                pdf: 'https://docs.google.com/spreadsheets/d/1XbPnOEkg13_CytauoSqnuU2vYf7jS2w9/edit?usp=sharing&ouid=109911988652411399439&rtpof=true&sd=true'
             },
             {
                 id: 4,
@@ -42,7 +42,7 @@ https://templatemo.com/tm-600-prism-flux
                 description: 'Advanced Excel Functions',
                 image: 'images/imgPract3.png',
                 tech: ['Commands'],
-                pdf: 'link/practTask3.pdf'
+                pdf: 'https://docs.google.com/spreadsheets/d/1dAuPuGupkFEkJmqcIgzj_0s7ZjjRSotB/edit?usp=sharing&ouid=109911988652411399439&rtpof=true&sd=true'
             },
             {
                 id: 5,
@@ -50,7 +50,7 @@ https://templatemo.com/tm-600-prism-flux
                 description: 'Hands On Using Pivot Tables for Data Analysis',
                 image: 'images/imgQuiz2.png',
                 tech: ['Pivot Table'],
-                pdf: 'link/quiz2.pdf'
+                pdf: 'https://docs.google.com/spreadsheets/d/11fkPbQdv5QshEJCcdpgW1YO8myBOV2tV/edit?usp=sharing&ouid=109911988652411399439&rtpof=true&sd=true'
             },
             {
                 id: 6,
@@ -58,15 +58,15 @@ https://templatemo.com/tm-600-prism-flux
                 description: 'Data Cleaning and Prep using Power Query',
                 image: 'images/imgPract4.png',
                 tech: ['Unity', 'ARCore', 'Computer Vision'],
-                pdf: 'link/practTask4   .pdf'
+                pdf: 'https://drive.google.com/drive/folders/1ATOrUUyZIgkw_xPCSZF7alvfaA5wirTD?usp=sharing'
             },
             {
                 id: 7,
-                title: 'IoT Matrix',
+                title: 'Midterm Task 2',
                 description: 'Intelligent IoT ecosystem connecting millions of devices with edge computing capabilities.',
-                image: 'images/iot-matrix.jpg',
+                image: 'images/imgMterm2.png',
                 tech: ['MQTT', 'Edge AI', '5G'],
-                pdf: 'link/mterm1.pdf'
+                pdf: 'https://drive.google.com/drive/folders/1XApsIBS9NF6Sximhjob3KEevmt4sGu0R?usp=sharing'
             }
         ];
 
