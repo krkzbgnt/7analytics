@@ -63,7 +63,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 7,
                 title: 'Midterm Task 2',
-                description: 'Intelligent IoT ecosystem connecting millions of devices with edge computing capabilities.',
+                description: 'Data Preparation and Modeling using Power Query',
                 image: 'images/imgMterm2.png',
                 tech: ['MQTT', 'Edge AI', '5G'],
                 pdf: 'https://drive.google.com/drive/folders/1XApsIBS9NF6Sximhjob3KEevmt4sGu0R?usp=sharing'
