@@ -54,11 +54,11 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 6,
-                title: 'AR Interface',
-                description: 'Augmented reality system for immersive data visualization and interactive experiences.',
-                image: 'images/ar-interface.jpg',
+                title: 'Practice Task 4',
+                description: 'Data Cleaning and Prep using Power Query',
+                image: 'images/imgPract4.png',
                 tech: ['Unity', 'ARCore', 'Computer Vision'],
-                pdf: 'link/mterm1.pdf'
+                pdf: 'link/practTask4   .pdf'
             },
             {
                 id: 7,
