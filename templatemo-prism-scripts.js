@@ -309,9 +309,6 @@ https://templatemo.com/tm-600-prism-flux
         document.getElementById('nextBtn').addEventListener('click', nextSlide);
         document.getElementById('prevBtn').addEventListener('click', prevSlide);
 
-        // Auto-rotate carousel
-        setInterval(nextSlide, 5000);
-
         // Keyboard navigation
         document.addEventListener('keydown', (e) => {
             if (e.key === 'ArrowLeft') prevSlide();
