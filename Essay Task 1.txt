@@ -1,0 +1,31 @@
+1. What are the four primary factors that will differentiate a data analyst candidate in 2026?
+The four main factors are domain knowledge, understanding the technical ecosystem, strong soft skills, and having a clear personal “why.” These matter because companies want analysts who can do more than just use tools—they want people who understand the business and can communicate insights. Having all four makes a candidate stand out more.
+
+2. How does domain knowledge provide a competitive advantage over purely technical candidates?
+Domain knowledge helps you understand what the data actually means in a real business setting. Instead of just analyzing numbers, you can connect them to real problems and decisions. This makes your insights more useful compared to someone who only has technical skills.
+
+3. What is the "lean tech stack" recommended for a foundational data analyst role?
+The recommended tech stack includes Excel, SQL, and one visualization tool like Tableau or Power BI. It can also include tools like DBT or Google Analytics depending on the field. The idea is to focus on the most useful tools instead of trying to learn everything.
+
+4. Distinguish between "learning projects" and "showing projects."
+Learning projects are mainly for practice and building your skills, like using Kaggle or following tutorials. Showing projects are more polished and are meant to prove your skills to employers using real-world problems and messy data. These projects should clearly show your thinking and results.
+
+5. According to the roadmap, why is Python often deprioritized for mid-career data analyst positions?
+Python is not the main focus because most data analyst tasks are done using SQL, Excel, and visualization tools. The roadmap suggests focusing on tools that are used daily in the job. Python is more useful for advanced roles, not basic analyst positions.
+
+SQL-Based Questions
+
+6. Why is establishing the "Business Context" essential for an analyst? What is a Business Context?
+Business context means understanding what the company needs and what problem you are trying to solve. It’s important because it helps guide your analysis so your results are actually useful. Without it, your work might not help the business at all.
+
+7. According to the text, how does SQL function as a "flashlight"?
+SQL works like a flashlight because it helps you explore data and find important details. It lets you focus on specific parts of the data to see patterns or problems. This makes it easier to understand what’s really going on.
+
+8. Why is the validation step considered a professional necessity rather than an optional task?
+Validation is important because it makes sure your data and results are correct. If you make mistakes, it could lead to wrong decisions in the business. That’s why checking your work is something professionals always do.
+
+9. What defines "good SQL" according to the author's standards?
+Good SQL is easy to read, well-organized, and correct. It should not be too complicated and should run efficiently. Other people should be able to understand it without confusion.
+
+10. Describe the fundamental mindset shift required to move from being a student to being an analyst.
+The mindset shift is about focusing on solving real problems instead of just finishing tasks. As an analyst, you need to think about how your work helps the business. It’s more about impact and decision-making than just using tools.
